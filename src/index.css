@@ -12,6 +12,10 @@ body {
     background-color: #e7f6ff;
     min-height: 100vh;
 }
+#root {
+    width: 100%;
+    max-width: 1080px;
+}
 
 a {
     cursor: pointer;

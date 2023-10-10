@@ -1,14 +1,15 @@
 import './Main.css'
 
-
 // Components
-import Header from '../../components/header/Header'
+import Advertising from '../../components/advertising/Advertising'
+import Product from '../../components/product/Product'
 
 function Main() {
   return (
-    <main className='main-page'>
-        
-    </main>
+    <div className='main-page'>
+        <Advertising />
+        <Product />
+    </div>
   )
 }
 

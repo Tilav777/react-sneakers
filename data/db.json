@@ -6,7 +6,7 @@
             "title": "Nike Blazer Mid Suede",
             "price": 500,
             "handle": {
-                "isLike": false,
+                "isLike": true,
                 "isAdded": false
             }
         },

@@ -1,3 +1,7 @@
 .main-page {
     border-radius: 20px;
+    padding: 45px 60px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
 }
