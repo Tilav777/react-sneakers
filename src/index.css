@@ -1,0 +1,25 @@
+*, *::after, *::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e7f6ff;
+    min-height: 100vh;
+}
+
+a {
+    cursor: pointer;
+    user-select: none;
+    text-decoration: none;
+    color: #000;
+}
+
+button {
+    cursor: pointer;
+}

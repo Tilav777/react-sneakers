@@ -1,0 +1,26 @@
+.header {
+    display: flex;
+    align-items: center;
+    padding: 25px 45px;
+    border-bottom: 1px solid #ccc;
+    justify-content: space-between;
+}
+
+.header__profile {
+    display: flex;
+    align-items: center;
+    gap: 32px;
+}
+
+.icon-box {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+.header__profile button {
+    border: none;
+    background-color: inherit;
+    font-size: 16px;
+}
+
